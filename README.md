@@ -29,4 +29,6 @@ Se você quiser contribuir para o projeto, fique à vontade! Aqui estão algumas
 
 **Lembre-se:** A ciência é para todos! 
 
+**Acesse o site na integra:** https://biotec-delta.vercel.app/
+
 **Contribuições são sempre bem-vindas!**
