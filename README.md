@@ -1,4 +1,4 @@
-### **O que é o Bio.tech?**
+### **O que é o Bio.tech?** - Imersão com o Google Gemini
 
 O Bio.tech é sua porta de entrada para um mundo fascinante de descobertas científicas!  Essa aplicação te permite explorar os mistérios da neurociência, os avanços da inteligência artificial na biologia, e muito mais. 
 É como ter uma biblioteca pessoal de artigos científicos, mas bem mais divertida e fácil de navegar. 
